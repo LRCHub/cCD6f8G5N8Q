@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "FACTORY",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-11T18:50:09.538474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Straight from the Factory",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/01_Straight_from_the_Factory_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beach Baby - Live from The Bomb Factory, Dallas TX, Jan 23 2018",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/02_Beach_Baby_-_Live_from_The_Bomb_Factory,_Dallas_TX,_Jan_23_2018_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beach Baby (Live from The Bomb Factory, Dallas TX, Jan 23 2018)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/03_Beach_Baby_(Live_from_The_Bomb_Factory,_Dallas_TX,_Jan_23_2018)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss Factory",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/04_Kiss_Factory_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "trauma factory",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/05_trauma_factory_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Factory Girl",
+      "artist": "The Chieftains feat. Sinéad O’Connor",
+      "has_synced": false,
+      "path": "select/06_Factory_Girl_The_Chieftains_feat._Sinéad_O’Connor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Joy Factory (feat. Autolux)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/07_Joy_Factory_(feat._Autolux)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Factory",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/08_Love_Factory_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Song of the Factory",
+      "artist": "Jane Wiedlin",
+      "has_synced": false,
+      "path": "select/09_Song_of_the_Factory_Jane_Wiedlin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vamos a la Playa (Factory Team Happy Mix)",
+      "artist": "Righeira",
+      "has_synced": false,
+      "path": "select/10_Vamos_a_la_Playa_(Factory_Team_Happy_Mix)_Righeira.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Party With Fun Factory",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/11_Party_With_Fun_Factory_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Party With Fun Factory (2)",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/12_Party_With_Fun_Factory_(2)_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Joy Factory",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/13_Joy_Factory_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Factory",
+      "artist": "Band of Horses",
+      "has_synced": false,
+      "path": "select/14_Factory_Band_of_Horses.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Belong In a Factory",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/15_I_Belong_In_a_Factory_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Factory Friends",
+      "artist": "Parralox",
+      "has_synced": false,
+      "path": "select/16_Factory_Friends_Parralox.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FACTORY",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_FACTORY_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
